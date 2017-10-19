@@ -1,0 +1,11 @@
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\bin\Debug\ArrayF1.exe.config
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\bin\Debug\ArrayF1.exe
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\bin\Debug\ArrayF1.pdb
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\bin\Debug\ArrayF1.xml
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\obj\Debug\ArrayF1.vbprojResolveAssemblyReference.cache
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\obj\Debug\ArrayF1.Resources.resources
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\obj\Debug\ArrayF1.vbproj.GenerateResource.Cache
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\obj\Debug\ArrayF1.vbproj.CoreCompileInputs.cache
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\obj\Debug\ArrayF1.exe
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\obj\Debug\ArrayF1.xml
+C:\Users\loren\source\repos\ArrayF1\ArrayF1\obj\Debug\ArrayF1.pdb
